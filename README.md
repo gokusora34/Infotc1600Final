@@ -1,2 +1,2 @@
 # Infotc1600Final
-Repository for INFOTC 1600 final
+This will be a tutorial in how to create a basic HTML page with the five requried tags.
