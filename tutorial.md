@@ -21,5 +21,8 @@ The fourth required tag is the **<title></title>** tag. This tag defines what th
 The final tag that every HTML document requires is the **<body></body>** tag. This tag will hold all the content that will display on the page, such as text, images, links, etc.\
 ![body](https://user-images.githubusercontent.com/55213659/117482932-b4b24000-af2a-11eb-8dda-09c255b7b53f.png)
 
+## Example Using all Tags
+Below is an example of an HTML document written to show the basic 5 tags working in order to create a basic webpage. These tags are the bare miniumum needed in order to create a working page, and should be used alongside other HTML tags in order to create the best page possible. \
+![Example](https://user-images.githubusercontent.com/55213659/117483805-d52eca00-af2b-11eb-8ce8-782af705ec52.png)
 
 
