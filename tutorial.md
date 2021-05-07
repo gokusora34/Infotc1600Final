@@ -13,11 +13,11 @@ The second tag that every HTML document needs is the **<html></html>** tags. Thi
 The third required tag is the **<head></head>** tag. The head tag has all the information about the html document that won't appear on the page, and is also used for the meta tags. \
 ![head](https://user-images.githubusercontent.com/55213659/117482527-1faf4700-af2a-11eb-9207-b16027e45869.png)
 
-##Title Tag
+## Title Tag
 The fourth required tag is the **<title></title>** tag. This tag defines what the title of the page will be, and will display in the title bar of the web browser. This tag must be inbetween the **<head></head>** tags. \
 ![title](https://user-images.githubusercontent.com/55213659/117482756-73ba2b80-af2a-11eb-92e3-04d73e3ca958.png)
 
-##Body Tag
+## Body Tag
 The final tag that every HTML document requires is the **<body></body>** tag. This tag will hold all the content that will display on the page, such as text, images, links, etc.\
 ![body](https://user-images.githubusercontent.com/55213659/117482932-b4b24000-af2a-11eb-8dda-09c255b7b53f.png)
 
